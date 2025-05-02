@@ -18,8 +18,9 @@
 
 | Day | Problem Name       | Language | Approach Used | Notes | Code Link |
 |-----|--------------------|----------|----------------|-------|-----------|
-| 1  | Number of 1 Bits            | C++      | HashMap        | Learned from MIK | [NumOf1Bits.cpp](may/NumOf1Bits.cpp) |
-| 20  | *Add next here...* | -        | -              | -     | -         |
+| 1  | Number of 1 Bits            | C++      | Bit Manipulation        | Learned from MIK | [NumOf1Bits.cpp](may/NumOf1Bits.cpp) |
+| 2  | Number of 1 Bits            | C++      | Bitwise Right Shift & Masking        | Learned from MIK | [NumOf1Bits.cpp](may/NumsOf1Bits.cpp) |
+
 
 ---
 
