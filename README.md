@@ -33,12 +33,13 @@
 
 ## 🗓️ Daily Progress – May 2025
 
-| Day | Problem Name | Language | Approach Used | Notes | Code Link |
+| Sr no. | Problem Name | Language | Approach Used | Notes | Code Link |
 |-----|-------------|----------|--------------|-------|-----------|
 | 1 | Number of 1 Bits | C++ | Bit Manipulation (Kernighan's Algo) | Learned from MIK | [NumOf1Bits.cpp](may/NumOf1Bits.cpp) |
 | 2 | Contains Duplicate | C++ | Sorting + Adjacent Comparison | Learned from MIK | [Contains Duplicate.cpp](may/ContainsDuplicate.cpp) |
-| 3 | Number of 1 Bits | C++ | Bitwise Right Shift & Masking | Learned from MIK | [NumsOf1Bits.cpp](may/NumsOf1Bits.cpp) |
+| 3 | Number of 1 Bits | C++ | Bitwise Right Shift & Masking | Learned from MIK | [NumsOf1Bits.cpp](may/Numsof1Bits.cpp) |
 | 4 | Number of 1 Bits | C++ | Sorting-based Anagram Check | Self code | [Valid Anagram.cpp](may/ValidAnagram.cpp) |
+
 
 ## 🧠 Strategy
 
