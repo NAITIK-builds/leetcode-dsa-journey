@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/🗓%20First%20Day-March%2022,%202025-8A2BE2?style=for-the-badge" alt="First Day"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/🔥%20Max%20Streak-35%20Days-FF4500?style=for-the-badge" alt="Max Streak"/>
+    <img src="https://img.shields.io/badge/🔥%20Max%20Streak-37%20Days-FF4500?style=for-the-badge" alt="Max Streak"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/✅%20Total%20Active%20Days-41%20Days-00C853?style=for-the-badge" alt="Total Active Days"/>
+    <img src="https://img.shields.io/badge/✅%20Total%20Active%20Days-43%20Days-00C853?style=for-the-badge" alt="Total Active Days"/>
   </a>
 </div>
 <br>
@@ -39,8 +39,8 @@
 | 2 | Contains Duplicate | C++ | Sorting + Adjacent Comparison | Learned from MIK | [Contains Duplicate.cpp](may/ContainsDuplicate.cpp) |
 | 3 | Number of 1 Bits | C++ | Bitwise Right Shift & Masking | Learned from MIK | [NumsOf1Bits.cpp](may/Numsof1Bits.cpp) |
 | 4 | Number of 1 Bits | C++ | Sorting-based Anagram Check | Self code | [Valid Anagram.cpp](may/ValidAnagram.cpp) |
-| 5  | Number of Equivalent Domino Pairs | C++ | Brute-Force | Self code | [Number of Equivalent Domino Pairs.cpp](may/NumberofEquivalentDominoPairs.txt) |
-
+| 5  | Number of Equivalent Domino Pairs | C++ | Brute-Force | Self code | [Number of Equivalent Domino Pairs.cpp](may/NumberofEquivalentDominoPairs.cpp) |
+| 6  | Domino and Tromino Tiling | C++ | Dynamic Programming with Memoization (Top-Down DP) | Learned from MIK | [Domino and Tromino Tiling.cpp](may/DominoandTrominoTiling.cpp) |
 
 ## 🧠 Strategy
 
