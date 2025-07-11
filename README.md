@@ -1,8 +1,8 @@
-# 🔥 LeetCode DSA Journey – Future Millionaire in the Making 👑
+# 🚀 LeetCode DSA Journey – Building Excellence Daily 💻
 
 <div align="center">
-  <b>Daily LeetCode • Focused Growth • Bit by Bit Brilliance</b><br/>
-  <i>DSA isn't just a grind — it's a legacy in the making.</i>
+  <b>Consistent Practice • Smart Learning • Future Success</b><br/>
+  <i>Every problem solved is a step closer to mastery.</i>
 </div>
 
 <div align="center">
@@ -11,43 +11,56 @@
 
 ---
 
-📊 DSA Highlights
+## 📊 Journey Stats
+
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/🗓%20First%20Day-March%2022,%202025-8A2BE2?style=for-the-badge" alt="First Day"/>
+    <img src="https://img.shields.io/badge/🗓%20Started-March%2022,%202025-8A2BE2?style=for-the-badge" alt="Start Date"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/🔥%20Max%20Streak-37%20Days-FF4500?style=for-the-badge" alt="Max Streak"/>
+    <img src="https://img.shields.io/badge/🔥%20Max%20Streak-51%20Days-FF4500?style=for-the-badge" alt="Max Streak"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/✅%20Total%20Active%20Days-43%20Days-00C853?style=for-the-badge" alt="Total Active Days"/>
+    <img src="https://img.shields.io/badge/✅%20Problems%20Solved-102+-00C853?style=for-the-badge" alt="Problems Solved"/>
   </a>
 </div>
-<br>
-<!-- Counter for automatic updates - increments dynamically -->
-<!-- STREAK_COUNTER:35 -->
-<!-- ACTIVE_DAYS_COUNTER:41 -->
-<!-- LAST_UPDATED:2025-05-02 -->
 
-🚀 **Consistency over motivation. Show up daily.**
+---
 
-## 🗓️ Daily Progress – May 2025
+## 🗓️ Current Progress - July 2025
 
-| Sr no. | Problem Name | Language | Approach Used | Notes | Code Link |
-|-----|-------------|----------|--------------|-------|-----------|
-| 1 | Number of 1 Bits | C++ | Bit Manipulation (Kernighan's Algo) | Learned from MIK | [NumOf1Bits.cpp](may/NumOf1Bits.cpp) |
-| 2 | Contains Duplicate | C++ | Sorting + Adjacent Comparison | Learned from MIK | [Contains Duplicate.cpp](may/ContainsDuplicate.cpp) |
-| 3 | Number of 1 Bits | C++ | Bitwise Right Shift & Masking | Learned from MIK | [NumsOf1Bits.cpp](may/Numsof1Bits.cpp) |
-| 4 | Number of 1 Bits | C++ | Sorting-based Anagram Check | Self code | [Valid Anagram.cpp](may/ValidAnagram.cpp) |
-| 5  | Number of Equivalent Domino Pairs | C++ | Brute-Force | Self code | [Number of Equivalent Domino Pairs.cpp](may/NumberofEquivalentDominoPairs.cpp) |
-| 6  | Domino and Tromino Tiling | C++ | Dynamic Programming with Memoization (Top-Down DP) | Learned from MIK | [Domino and Tromino Tiling.cpp](may/DominoandTrominoTiling.cpp) |
+| Date | Problem | Difficulty | Code | Status |
+|------|---------|------------|------|--------|
+| Jul 11 | Meeting Rooms III | Hard | [📝](https://rentry.co/naitik-reverse-integer) | ✅ |
+| Jul 10 | 9. Palindrome Number | Easy | [📝](https://rentry.co/naitik-palindrome-number) | ✅ |
+| Jul 9 | 3. Longest Substring Without Repeating Characters | Medium | [📝](https://rentry.co/naitik-longest-substring) | ✅ |
+| Jul 8 | 2. Add Two Numbers | Medium | [📝](https://rentry.co/naitik-add-two-numbers) | ✅ |
+| Jul 7 | 4. Median of Two Sorted Arrays | Hard | [📝](https://rentry.co/naitik-median-arrays) | ✅ |
+| Jul 6 | 5. Longest Palindromic Substring | Medium | [📝](https://rentry.co/naitik-longest-palindrome) | ✅ |
+| Jul 5 | 6. Zigzag Conversion | Medium | [📝](https://rentry.co/naitik-zigzag-conversion) | ✅ |
+| Jul 4 | 11. Container With Most Water | Medium | [📝](https://rentry.co/naitik-container-water) | ✅ |
+| Jul 3 | 12. Integer to Roman | Medium | [📝](https://rentry.co/naitik-integer-roman) | ✅ |
+| Jul 2 | 13. Roman to Integer | Easy | [📝](https://rentry.co/naitik-roman-integer) | ✅ |
+| Jul 1 | 1. Two Sum | Easy | [📝](https://rentry.co/naitik-two-sum) | ✅ |
 
-## 🧠 Strategy
+---
 
-- 📺 Learn from CodeStoryWithMIK, NeetCode, etc.
-- ✍️ Re-code yourself (no copy-paste)
-- 🔁 Build habit → build skills → build future
-- 📘 Keep README.md updated weekly
+## 🎯 Learning Strategy
+
+**Daily Routine:**
+- 🎬 Watch tutorials (MIK, NeetCode, Striver)
+- 💡 Understand the approach thoroughly
+- 💻 Code the solution independently
+- 📝 Document key learnings
+
+**Focus Areas:**
+- Arrays & Strings
+- Dynamic Programming
+- Bit Manipulation
+- Hash Maps & Sets
+- Binary Trees & Graphs
+
+---
 
 ## 📈 GitHub Stats
 
@@ -56,7 +69,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAITIK-builds&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-## 🔗 Connect with Me
+---
+
+## 🔗 Connect & Follow
 
 <div align="center">
 
@@ -67,8 +82,9 @@
 
 </div>
 
+---
 
 <p align="center">
-  ✨ "Solve one problem a day, and you'll solve your future." <br/>
-  💥 Thanks for visiting — this repo grows daily!
+  ✨ <b>"Consistency beats perfection. Progress beats procrastination."</b> ✨<br/>
+  💪 <i>Thanks for visiting — this journey continues daily!</i>
 </p>
