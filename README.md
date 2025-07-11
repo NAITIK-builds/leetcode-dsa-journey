@@ -31,7 +31,7 @@
 
 | Date | Problem | Difficulty | Code | Status |
 |------|---------|------------|------|--------|
-| Jul 11 | Meeting Rooms III | Hard | [📝](https://rentry.co/naitik-reverse-integer) | ✅ |
+| Jul 11 | Meeting Rooms III | Hard | [📝](https://rentry.co/qz2am4x2) | ✅ |
 | Jul 10 | 9. Palindrome Number | Easy | [📝](https://rentry.co/naitik-palindrome-number) | ✅ |
 | Jul 9 | 3. Longest Substring Without Repeating Characters | Medium | [📝](https://rentry.co/naitik-longest-substring) | ✅ |
 | Jul 8 | 2. Add Two Numbers | Medium | [📝](https://rentry.co/naitik-add-two-numbers) | ✅ |
